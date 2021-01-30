@@ -1,0 +1,39 @@
+
+body
+{
+	padding: 10px;
+	background-color: rgb(240, 243, 244);
+}
+
+aside {
+  width: 30%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: right;
+  font-style: italic;
+  background-color: lightgray;
+}
+h1
+{
+	text-align: center;
+	color: #FC94AF;
+	font-family: Times New Roman; 
+	font-style: italic;
+}
+h3
+{
+	color: #FC94AF
+}
+summary
+{
+	float: none;
+}
+ul
+{
+	list-style-type: square;
+
+}
+footer
+{
+	text-align: center;
+}
